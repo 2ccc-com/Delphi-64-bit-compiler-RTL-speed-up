@@ -1,6 +1,6 @@
 Delphi 64 bit compiler RTL speed up
 
-Object Pascal wrappers from Intel Integrated Performance Primitives and Intel Threading Building Blocks royalty-free packages
+Object Pascal wrappers from Intel Integrated Performance Primitives and Intel Threading Building Blocks royalty-free packages (https://github.com/oneapi-src/oneTBB, https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/ipp.html)
 
 Copyright 17 June 2019 Roberto Della Pasqua (updated 9 March 2020)
 
